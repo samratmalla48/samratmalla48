@@ -13,11 +13,11 @@ I've been learning in code for one and half years initially i start with Python 
 
 - 🔭 I’m currently working on [Constuction Project](https://github.com/prashant2071/construction-site)
 
-- 👨‍💻 All of my projects are available at [https://samratmallaportfolio.netlify.app/](https://samratmallaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website/](https://samratmallaportfolio.netlify.app/)
 
 - 📫 How to reach me **samratmalla48@gmail.com**
 
-- 📄 Know about my experiences [R](https://drive.google.com/file/d/1UzdZmYG_DBdS47GNGwOZn7npc2kDZl1H/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UzdZmYG_DBdS47GNGwOZn7npc2kDZl1H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

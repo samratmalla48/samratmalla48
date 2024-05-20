@@ -35,6 +35,5 @@ I've been learning in code for one and half years initially i start with Python 
 
 <hr>
 
-<p><img  align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=samratmalla48&" alt="samratmalla48" /></p>
-<hr>
+
 
